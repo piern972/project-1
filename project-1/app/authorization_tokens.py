@@ -1,8 +1,0 @@
-
-API_Key = "DTf2DPPr1LY9pEio73yUyA6Bk"
-API_Key_Secret = "t3wVIiqUJ38Y2X7lHtBr6IDePf8B8dEc7Hm3dCIyoJLyJdZGno"
-Bearer_Token = "AAAAAAAAAAAAAAAAAAAAAHiAUAEAAAAApqeTyfdEU3rGedmIYmdGO%2BFAges%3Dbg6P9rC0wiaSsW5rwQwMYvd5ANvuNL4QjSKZoD0pmZEECupjWP"
-
-
-access_token = "1442287102868164613-rCrT8Jeo4eucSEpfo5fKxyVibNOC4u"
-access_token_secret = "5D8fF5ioJlyAVUb5Y9zIdLkAvs1jvVSWLKFyj9nBcpsdz"
